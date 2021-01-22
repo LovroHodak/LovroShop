@@ -22,6 +22,10 @@ npm i react-router-dom
 clean from react-app
 App.js -router
 NavBar
+6)
+so far everything is HARD-CODED
+HomeScreen
+ProductDetail
 
 
 
