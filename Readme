@@ -26,6 +26,11 @@ NavBar
 so far everything is HARD-CODED
 HomeScreen
 ProductDetail
+7)
+SideDrawer
+BackDrop
+functionality of showing and hidding SideDrawer is in
+App.js - NavBar.js - SideDrawer.js - BackDrop.js and CSSs
 
 
 
