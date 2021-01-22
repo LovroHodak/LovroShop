@@ -11,7 +11,9 @@ seeded products to MongoDB Atlas
 npm i cors
 created ROUTES
 backend ready!!
-
+4)
+npm i --save-dev concurrently
+created frontend and changed package.json to run back and front with one command
 
 
 
