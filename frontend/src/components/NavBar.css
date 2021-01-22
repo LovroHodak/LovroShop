@@ -84,7 +84,7 @@
     background: #dd219e;
 }
 
-@media (max-width: 960px){
+@media (max-width: 959px){
     .navbar__links {
         display: none;
     }
