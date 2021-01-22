@@ -1,5 +1,11 @@
 LOVROSHOP
+1)
 npm init
-
 git init
+created index.js, CONFIG, .env, .gitignore
+2)
+created DATA, MODEL, BIN
+seeded products to MongoDB Atlas
+3)
+
 
