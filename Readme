@@ -41,6 +41,7 @@ created redux folder
 -created store.js (reducer, middleware, store)
 -in index.js connected store with Provider
 -in google devtools redux I see my store is connected
+
 10)
 a) constants/cartConstants.js - what action will do
 b) reducers/cartReducers.js
@@ -59,6 +60,12 @@ REMOVE_FROM_CART
 d) store.js - we imported cartReducer and add it to our reducer.
 That is now a state in google-redux
 
+11)
+a) productConstants.js
+b) productReducers.js - getProductsReducer, getProductDetailsReducer
+c) productActions 
+d) imported reducers to store.js
+-now in google redux we can see 3 states
 
 
 
