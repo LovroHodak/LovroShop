@@ -41,6 +41,23 @@ created redux folder
 -created store.js (reducer, middleware, store)
 -in index.js connected store with Provider
 -in google devtools redux I see my store is connected
+10)
+a) constants/cartConstants.js - what action will do
+b) reducers/cartReducers.js
+-initial state, action
+-ADD_TO_CART - first find is that product is already in cartActions
+-REMOVE_FROM_CART - return filtered state
+-default: if action doesnt exist keep initial state
+c) actions/cartActions.js
+ADD_TO_CART
+-fetch product from DB 
+-dispatch: type, payload(model) 
+-localeStorage.setItem
+REMOVE_FROM_CART
+-dispatch: type, payload(id)
+-localeStorage.setItem
+d) store.js - we imported cartReducer and add it to our reducer.
+That is now a state in google-redux
 
 
 
