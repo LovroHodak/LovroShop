@@ -35,7 +35,12 @@ App.js - NavBar.js - SideDrawer.js - BackDrop.js and CSSs
 CartScreen
 CartItem
 9)
-
+(frontend)
+npm i react-redux redux redux-devtools-extension redux-thunk
+created redux folder
+-created store.js (reducer, middleware, store)
+-in index.js connected store with Provider
+-in google devtools redux I see my store is connected
 
 
 
